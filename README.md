@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdoul
+- 👀 I’m interested in data science, data engineering and dataOps tasks
+- 🌱 I’m currently student
+- 💞️ I’m looking to collaborate on whole end to end dataOps project
